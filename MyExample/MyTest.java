@@ -1,4 +1,4 @@
-package DialogBoxes.MyExample;
+package MyExample;
 
 
 import javax.swing.*;
